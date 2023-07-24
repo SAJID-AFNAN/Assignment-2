@@ -409,7 +409,7 @@ footer {
 }
 
 .games {
-    padding-left: 280px;
+    padding-left: 350px;
 }
 
 .footer-context {
@@ -433,7 +433,7 @@ footer {
 .footer-text {
     display: flex;
     gap: 40px;
-    padding: 20px 0 20px 70px;
+    padding: 20px 0 0px 100px;
 
 }
 
