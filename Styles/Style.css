@@ -415,7 +415,7 @@ footer {
 .footer-context {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
     padding: 10px 0;
 }
 
